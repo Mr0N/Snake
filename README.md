@@ -1,1 +1,1 @@
-Реалізація змійки в консолі
+Implementing a snake in the console
